@@ -17,9 +17,11 @@
 <h2 align="left">I code with</h2>
 
 ###
-<img src="https://raw.githubusercontent.com/kenanbiberovic/kenanbiberovic/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KenanBiberovic/KenanBiberovic/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
